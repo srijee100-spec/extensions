@@ -1,0 +1,14 @@
+{
+  "manifest_version": 3,
+  "name": "YouTube - Block Hover Preview",
+  "version": "1.0",
+  "description": "Blocks YouTube thumbnail hover previews.",
+  "content_scripts": [
+    {
+      "matches": ["https://www.youtube.com/*"],
+      "js": ["content.js"],
+      "run_at": "document_start"
+    }
+  ]
+  "update_url": "https://YOUR_USERNAME.github.io/extensions/updates.xml"
+}
