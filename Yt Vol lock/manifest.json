@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "YouTube Volume Lock",
-  "version": "1.0",
+  "version": "1.0.0",
   "description": "Keeps YouTube unmuted at full volume.",
   "content_scripts": [
     {
@@ -9,6 +9,6 @@
       "js": ["content.js"],
       "run_at": "document_idle"
     }
-  ]
-  "update_url": "https://srijee100-spec.github.io/extensions/Yt Vol Lock/updates.xml"
+  ],
+  "update_url": "https://srijee100-spec.github.io/extensions/Yt%20Vol%20lock/updates.xml"
 }
