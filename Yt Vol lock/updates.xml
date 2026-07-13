@@ -2,7 +2,7 @@
 <gupdate xmlns="http://www.google.com/update2/response" protocol="2.0">
   <app appid="febalaeknmplijkhnplgdpgfnphmnohc">
     <updatecheck
-      codebase="https://srijee100-spec.github.io/extensions/Yt Vol lock/Yt Vol lock.crx"
+      codebase="https://srijee100-spec.github.io/extensions/Yt%20Vol%20lock/Yt%20Vol%20lock.crx"
       version="1.0.0"/>
   </app>
 </gupdate>
